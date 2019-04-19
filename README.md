@@ -60,3 +60,4 @@ The SavedModel will be saved in a timestamped directory under `/tmp/mnist_saved_
 
 **Getting predictions with SavedModel**
 Use [`saved_model_cli`](https://www.tensorflow.org/guide/saved_model#cli_to_inspect_and_execute_savedmodel) to inspect and execute the SavedModel.
+testCI
