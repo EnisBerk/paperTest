@@ -1,6 +1,6 @@
 version: 0
 
-project-handle="pr6c9zn21"
+projectHandle:"pr6c9zn21"
 type: "multi-grpc"
 ports: "5000"
 parameter-server:
